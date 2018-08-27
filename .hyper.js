@@ -156,7 +156,6 @@ module.exports = {
     "hypercwd",
     "hyper-search",
     "hyperterm-tabs",
-    "hyper-search",
     "hyper-statusline",
     "hyper-material-theme",
     "hyperterm-cobalt2-theme"
